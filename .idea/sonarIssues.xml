@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_current/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_current/src/main/java/auftragsApp/requestsGeneration/AbschlussinfoTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_current/src/main/java/auftragsApp/requestsGeneration/TagesabschlussRequestBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_current/src/main/java/auftragsApp/validator/XSDValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_current/src/main/resources/xsd/FSA_AAB_V2.0.xsd">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_current/src/main/resources/xsd/FSA_AAB_V2.1.xsd">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/FsaRequestSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/HttpsURLConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/IMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/Sender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/AbschlussinfoTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/AuftragEntbuendelnBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/AuftragsZeitenRequestTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/EDauftragLadenRequestBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/EDauftragsTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/FbuchWahlRequestTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/HerbeirufauftragLadenRequestTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/HomeListAbfragenRequestTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/InitTagesabschlussRequestBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/auftragsApp/requestsGeneration/VersionBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/connection/HttpsURLConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/connection/Sender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/request/FsaRequestSender.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/request/FsaRequests.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/requestsGeneration/AbschlussinfoTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/requestsGeneration/AuftragsZeitenRequestTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/requestsGeneration/EDauftragsTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/requestsGeneration/FbuchWahlRequestTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/requestsGeneration/InitTagesabschlussRequestBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/requestsGeneration/LoginEmeaRequestTypeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/requestsGeneration/VersionBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/auftragsApp/validator/XSDValidation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/java/connection/HttpsURLConnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/resources/xsd/FSA_AAB_V2.0.xsd">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/auftragsApp_previous/src/main/resources/xsd/GenericDataContainerV1.0.xsd">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/common_utils/src/main/java/connection/MQconnection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/crmt/src/main/java/crmt/requestsGeneration/EkaKundeBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/crmt/src/main/java/crmt/requestsGeneration/LesenEkaResponseBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/crmt/src/main/java/crmt/requestsGeneration/LesenVertragResponseBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/crmt/src/main/java/crmt/requestsGeneration/VertragBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/main/java/testng/SettingGeneralParameters.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/test/java/testProject/regression/fsa/FsaReasonForReturn.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/test/java/testProject/regression/kvws/KVWSOrgDatenBearbeiten.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/src/test/java/testProject/regression/smnManagement/RetailForSmileTasks.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/wmstk_current/src/main/java/wmstk/requestsGeneration/ZusatzinfoBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/wmstk_current/src/main/resources/templates/SMN_rel5_5/Single_SMNType_BereitstellungTaskidsales.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AD/gitLab_TEST/ad-autotest/AD_test_library/AD_soapui/wmstk_previous/src/main/java/wmstk/requestsGeneration/ZusatzinfoBO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/triangle/model/Result.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/triangle/model/Triangle.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/triangle/utils/TriangleConstants.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/readMe.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangeFeatureTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangeLogicTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangleApiTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangleAuthenticationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangleNegative.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangleNegativeTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangleNotFoundTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/triangle/TriangleTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
